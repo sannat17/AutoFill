@@ -1,5 +1,4 @@
-
-const get_form_url = "https://pedidodevistos.mne.gov.pt/VistosOnline/Questionario"
+const questionnaire_url = "https://pedidodevistos.mne.gov.pt/VistosOnline/Questionario"
 const form_url = "https://pedidodevistos.mne.gov.pt/VistosOnline/Formulario"
 
 chrome.runtime.onInstalled.addListener(() => {
@@ -14,10 +13,10 @@ chrome.action.onClicked.addListener(async (tab) => {
             files: ["scripts/fill_form.js"]
         });
     }
-    else if (tab.url.startsWith(get_form_url)) {
+    else if (tab.url.startsWith(questionnaire_url)) {
         chrome.scripting.executeScript({
             target : {tabId : tab.id},
-            files: ["scripts/get_form.js"]
+            files: ["scripts/fill_questionnaire.js"]
         });
     }
 
