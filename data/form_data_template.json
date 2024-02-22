@@ -1,0 +1,167 @@
+[
+    {
+        "title": "Surname(s) at birth", "type": "input",
+        "attrVal": "f2", "attr": "name",
+        "value": "[REPLACEME]"
+    },
+    {
+        "title": "Travel expenses and subsistence during the stay of the applicant are covered", "type": "select",
+        "attrVal": "cmbDespesasRequerente_3", "attr": "name",
+        "value": "[REPLACEME]"
+    },
+    {
+        "title": "Place of birth", "type": "input",
+        "attrVal": "f6", "attr": "name",
+        "value": "[REPLACEME]"
+    },
+    {
+        "title": "Original nationality", "type": "select",
+        "attrVal": "f8", "attr": "name",
+        "value": "[REPLACEME]"
+    },
+    {
+        "title": "Travel expenses and subsistence during the stay of the applicant are covered", "type": "select",
+        "attrVal": "cmbDespesasRequerente_1", "attr": "name",
+        "value": "[REPLACEME]"
+    },
+    {
+        "title": "Travel expenses and subsistence during the stay of the applicant are covered", "type": "select",
+        "attrVal": "cmbDespesasRequerente_2", "attr": "name",
+        "value": "[REPLACEME]"
+    },
+    {
+        "title": "If you reside in a country other than your country of origin, have you permission to return to that country?", "type": "select",
+        "attrVal": "f18sf1", "attr": "name",
+        "value": "[REPLACEME]"
+    },
+    {
+        "title": "Address", "type": "input",
+        "attrVal": "txtEnderecoEmpresa", "attr": "name",
+        "value": "[REPLACEME]"
+    },
+    {
+        "title": "Name(", "type": "input",
+        "attrVal": "txtNomeEmpresa", "attr": "name",
+        "value": "[REPLACEME]"
+    },
+    {
+        "title": " Reference in the National Territory", "type": "select",
+        "attrVal": "cmbReferencia", "attr": "name",
+        "value": "[REPLACEME]"
+    },
+    {
+        "title": "address/phone", "type": "input",
+        "attrVal": "f20sf2", "attr": "name",
+        "value": "[REPLACEME]"
+    },
+    {
+        "title": "Employer's name. Students: teaching establishment", "type": "input",
+        "attrVal": "f20sf1", "attr": "name",
+        "value": "[REPLACEME]"
+    },
+    {
+        "title": "Email", "type": "input",
+        "attrVal": "txtEmailEmpresa", "attr": "name",
+        "value": "[REPLACEME]"
+    },
+    {
+        "title": "Consular post", "type": "select",
+        "attrVal": "f0sf1", "attr": "name",
+        "value": "[REPLACEME]"
+    },
+    {
+        "title": "Address", "type": "input",
+        "attrVal": "f45", "attr": "name",
+        "value": "[REPLACEME]"
+    },
+    {
+        "title": "Country of birth", "type": "select",
+        "attrVal": "f6sf1", "attr": "name",
+        "value": "[REPLACEME]"
+    },
+    {
+        "title": "Residence title n\u00ba", "type": "input",
+        "attrVal": "f18sf2", "attr": "name",
+        "value": "[REPLACEME]"
+    },
+    {
+        "title": "Phone Number ", "type": "input",
+        "attrVal": "f46", "attr": "name",
+        "value": "[REPLACEME]"
+    },
+    {
+        "title": "Validity end(yyyy/mm/dd)", "type": "input",
+        "attrVal": "f18sf3", "attr": "name",
+        "value": "[REPLACEME]"
+    },
+    {
+        "title": "County", "type": "select",
+        "attrVal": "cmbConcelhoEmpresa", "attr": "name",
+        "value": "[REPLACEME]"
+    },
+    {
+        "title": "Border of first entrance or transit route", "type": "select",
+        "attrVal": "f32", "attr": "name",
+        "value": "[REPLACEME]"
+    },
+    {
+        "title": "Current ocupation", "type": "select",
+        "attrVal": "f19", "attr": "name",
+        "value": "[REPLACEME]"
+    },
+    {
+        "title": "In the case of transit, have you an entry permit for the final country of destination", "type": "select",
+        "attrVal": "f27", "attr": "name",
+        "value": "[REPLACEME]"
+    },
+    {
+        "title": "Phone/Fax", "type": "input",
+        "attrVal": "txtTelefoneEmpresa", "attr": "name",
+        "value": "[REPLACEME]"
+    },
+    {
+        "title": "Number of entries requested", "type": "select",
+        "attrVal": "f24", "attr": "name",
+        "value": "[REPLACEME]"
+    },
+    {
+        "title": "Duration of stay (days)", "type": "input",
+        "attrVal": "f25", "attr": "name",
+        "value": "[REPLACEME]"
+    },
+    {
+        "title": "Intended date of arrival of the first intended stay in the Schengen area (aaaa/mm/dd)", "type": "input",
+        "attrVal": "f30", "attr": "name",
+        "value": "[REPLACEME]"
+    },
+    {
+        "title": "Member State of Destination", "type": "select",
+        "attrVal": "em_destino_2", "attr": "name",
+        "value": "[REPLACEME]"
+    },
+    {
+        "title": "Fingerprints collected previously for the purpose of applying for a Schengen visa", "type": "select",
+        "attrVal": "cmbImpressoesDigitais", "attr": "name",
+        "value": "[REPLACEME]"
+    },
+    {
+        "title": "Marital status", "type": "select",
+        "attrVal": "f10", "attr": "name",
+        "value": "[REPLACEME]"
+    },
+    {
+        "title": "Date of Issue(yyyy/mm/dd)", "type": "input",
+        "attrVal": "f16", "attr": "name",
+        "value": "[REPLACEME]"
+    },
+    {
+        "title": "Valid until(yyyy/mm/dd)", "type": "input",
+        "attrVal": "f17", "attr": "name",
+        "value": "[REPLACEME]"
+    },
+    {
+        "title": "Issued by", "type": "select",
+        "attrVal": "f15", "attr": "name",
+        "value": "[REPLACEME]"
+    }
+]
