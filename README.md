@@ -1,4 +1,4 @@
-# SchengenBot
+# Auto-Fill Bot
 
 ## Usage
 
