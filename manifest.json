@@ -1,0 +1,30 @@
+{
+    "manifest_version": 3,
+    "name": "SchengenBot",
+    "version": "1.0",
+    "description": "Fill Schengen Visa application",
+    
+    "permissions": ["scripting", "activeTab"],
+
+    "web_accessible_resources": [{
+        "matches": ["https://pedidodevistos.mne.gov.pt/*"],
+        "resources": ["scripts/*", "data/*"]
+    }],
+
+    "background": {
+        "type": "module",
+        "service_worker": "background.js"
+    },
+
+    "action": {
+        "default_icon": "icon.png"
+    },
+
+    "commands": {
+        "_execute_action": {
+            "suggested_key": {
+                "default": "Ctrl+Q"
+            }
+        }
+    }
+}
