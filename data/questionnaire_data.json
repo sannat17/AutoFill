@@ -1,0 +1,8 @@
+[
+    {"attrVal": "cb_question_21", "attr": "id", "type": "select", "value": "CANADA"},
+    {"attrVal": "cb_question_2", "attr": "id", "type": "select", "value": "ORDINARY PASSPORT"},
+    {"attrVal": "cb_question_3", "attr": "id", "type": "select", "value": "UP TO 90 DAYS"},
+    {"attrVal": "cb_question_5", "attr": "id", "type": "select", "value": "NO"},
+    {"attrVal": "cb_question_6", "attr": "id", "type": "select", "value": "TOURISM"},
+    {"attrVal": "cb_question_16", "attr": "id", "type": "select", "value": "NO"}
+]
