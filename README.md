@@ -16,7 +16,7 @@ Auto-fill supported for following pages:
 - [https://pedidodevistos.mne.gov.pt/VistosOnline/Formulario](https://pedidodevistos.mne.gov.pt/VistosOnline/Formulario)
 
 ## WIP 
-
+- Figure out a way to store the documents to be uploaded and upload those automatically too.
 - Can make this more extensible and explore more chrome extension features.
 - Potentially make it seamless where user just fills fields, clicks on some sort of action to register it as "remember", and everything else is automated.
 
